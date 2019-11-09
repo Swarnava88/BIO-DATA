@@ -1,0 +1,21 @@
+body {
+  background-color: Chartreuse
+}
+h1 {
+  color:blue
+}
+h3{
+  color:blue
+}
+
+hr {
+  border-style: none;
+  border-top-style: dashed;
+  background-color: grey;
+  border-width: 5px;
+  width: 100%;
+}
+  img{
+    height: 200px;
+    border-radius:50%;
+}
